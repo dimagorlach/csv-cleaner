@@ -1,0 +1,9 @@
+﻿name,email,phone,signup_date,city
+Anna Kovalenko,anna.kovalenko@example.com,+380501234567,2025-03-14,Kyiv
+John Smith,john.smith@example.com,5550142290,2025-03-15,Portland
+Maria Lopez,maria.lopez@example.com,5550147781,2025-03-03,Austin
+Oleh Shevchenko,oleh.sh@example,+380675550122,2025-02-20,Lviv
+Priya Singh,priya.singh@example.com,,2025-01-12,Denver
+Tom Walker,tom.walker@example.com,5550143321,2025-01-30,Seattle
+Daniel O'Neil,daniel.oneil@example.com,5550149902,not a date,Boston
+Sofia Marchenko,sofia.m@example.com,+380445550133,2025-11-05,Kharkiv

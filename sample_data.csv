@@ -1,0 +1,13 @@
+name,email,phone,signup_date,city
+ anna kovalenko ,Anna.Kovalenko@Example.com,+38 (050) 123-45-67,2025-03-14,Kyiv
+JOHN SMITH,john.smith@example.com,(555) 014-2290,03/15/2025,  Portland
+Maria  Lopez,maria.lopez@example.com,555 014 7781,"March 3, 2025",Austin
+,,,,
+anna kovalenko,anna.kovalenko@example.com,+380501234567,14.03.2025,Kyiv
+Oleh Shevchenko,oleh.sh@example,+380 67 555 01 22,20.02.2025,Lviv
+Priya Singh,priya.singh@example.com,,12 Jan 2025,Denver
+   ,   ,   ,   ,   
+Tom Walker,TOM.WALKER@EXAMPLE.COM,555.014.3321,2025-01-30,Seattle
+tom walker,tom.walker@example.com,555-014-3321,01/30/2025,Seattle
+Daniel O'Neil,daniel.oneil@example.com,(555) 014 9902,not a date,Boston
+Sofia Marchenko,sofia.m@example.com,+380 44 555 01 33,5.11.2025,Kharkiv
